@@ -153,5 +153,3 @@ git clone https://github.com/OSS-PREY/OSSPREY-OSS-Scraper-Tool
     ```
     python -m flask run
     ```
-    Or, to allow external access:
-    ```
